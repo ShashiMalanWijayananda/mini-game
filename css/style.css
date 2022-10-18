@@ -5,13 +5,13 @@
 }
 
 body {
-  background-image: url("../img/BG/BG.png");
+  background-image: url("img/BG/BG.png");
   background-size: auto;
   height: 100vh;
 }
 
 #player {
-  background-image: url("../img/Idle__000.png");
+  background-image: url("img/Idle__000.png");
   background-size: contain;
   background-repeat: no-repeat;
   width: 75px;
@@ -24,13 +24,13 @@ body {
   position: absolute;
   height: 50px;
   width: 100vw;
-  background-image: url("../img/Tiles/14.png");
+  background-image: url("img/Tiles/14.png");
   bottom: 0;
 }
 
 #object {
   position: absolute;
-  background-image: url("../img/Object/Tree_2.png");
+  background-image: url("img/Object/Tree_2.png");
   height: 300px;
   width: 280px;
   bottom: 45px;
@@ -38,7 +38,7 @@ body {
 
 #object2 {
   position: absolute;
-  background-image: url("../img/Object/Tree_1.png");
+  background-image: url("img/Object/Tree_1.png");
   right: 650px;
   height: 50px;
   width: 120px;
@@ -47,7 +47,7 @@ body {
 
 #object3 {
   position: absolute;
-  background-image: url("../img/Object/Tree_3.png");
+  background-image: url("img/Object/Tree_3.png");
   right: 300px;
   height: 280px;
   width: 280px;
@@ -56,7 +56,7 @@ body {
 
 #rock {
   position: absolute;
-  background-image: url("../img/Object/Stone.png");
+  background-image: url("img/Object/Stone.png");
   height: 50px;
   width: 70px;
   bottom: 50px;
@@ -65,7 +65,7 @@ body {
 
 #rock2 {
   position: absolute;
-  background-image: url("../img/Object/Bush (3).png");
+  background-image: url("img/Object/Bush (3).png");
   height: 50px;
   width: 70px;
   bottom: 40px;
@@ -74,7 +74,7 @@ body {
 
 #rock3 {
   position: absolute;
-  background-image: url("../img/Object/Bush (2).png");
+  background-image: url("img/Object/Bush (2).png");
   height: 50px;
   width: 140px;
   bottom: 40px;
